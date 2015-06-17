@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TieBreakers:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TieBreakers_jar</output-path>
+    <root id="archive" name="TieBreakers.jar">
+      <element id="module-output" name="TieBreakers" />
+    </root>
+  </artifact>
+</component>

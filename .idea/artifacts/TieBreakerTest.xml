@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="TieBreakerTest">
+    <output-path>$PROJECT_DIR$/out/artifacts/TieBreakerTest</output-path>
+    <root id="archive" name="TieBreakerTest.jar" />
+  </artifact>
+</component>
